@@ -1,0 +1,1 @@
+This is the solution for Mark and Toys problem in HackerRank.
